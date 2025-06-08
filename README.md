@@ -1,6 +1,6 @@
-## 1. 🎯 Pitch
+<img width="1283" alt="Screenshot 2025-06-08 at 10 15 57" src="https://github.com/user-attachments/assets/505e5c8a-17cc-4178-a992-642497aeb23e" />## 1. 🎯 Pitch
 
-RLUSD+ enables RLUSD stablecoin holders to earn real-world yield (simulated at 5% APY) by depositing tokens into XRPL “vaults.” In return, users receive a transferable MPToken with clawback functionality and identity verification for RWA compliance.
+RLUSD+ enables RLUSD stablecoin holders to earn real-world yield (simulated at 4% APY) by depositing tokens into XRPL “vaults.” In return, users receive a transferable MPToken with clawback functionality and identity verification for RWA compliance.
 
 ## 2. 🎥 Demo Video
 
@@ -15,6 +15,11 @@ Demo highlights:
 DevHack Tip: A 3–5 minute walkthrough combining live demo and technical explanation is highly effective  ￼.
 
 ## 3. 📸 Screenshots
+
+<img width="1283" alt="Screenshot 2025-06-08 at 10 15 57" src="https://github.com/user-attachments/assets/f0487b73-d0d3-4642-8888-c55aa587de71" />
+<img width="1267" alt="Screenshot 2025-06-08 at 10 16 10" src="https://github.com/user-attachments/assets/40e3d0fc-489b-4283-9cf8-84c428c16c54" />
+
+
 
 ## 4. ⚙️ How It Works on XRPL
 
